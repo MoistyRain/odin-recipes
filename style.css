@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+#title {
+    font-family: Helvetica, sans-serif ;
+    font-weight: bold;
+    color: white;
+    font-size: 48px;
+    text-align: center;
+}
+
+li {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}

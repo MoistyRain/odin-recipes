@@ -1,0 +1,27 @@
+h1 {
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+#mediterranean {
+    background-color: rgb(241, 193, 137);
+}
+
+#street-tacos {
+    background-color: rgb(184, 248, 154);
+}
+
+#spaghetti {
+    background-color: rgb(235, 169, 115);
+}
